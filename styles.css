@@ -1,0 +1,25 @@
+body{
+    background-color: #100c08;
+}
+
+.main__title{
+    padding: 10%;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(237, 237, 237);
+}
+
+.container{
+    padding-left: 10%;
+}
+
+.text__white{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(221, 221, 221);
+    width: 70%;
+}
+
+.Space__experience{
+    padding-top: 10%;
+}
+
