@@ -1,5 +1,6 @@
 body{
-    background-color: #100c08;
+    background-color: rgba(37, 32, 32, 0.69)!important;
+    background-image: url("/images/painted-solid-concrete-wall-textured-backdrop.jpg");
 }
 
 .main__title{
