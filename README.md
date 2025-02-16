@@ -1,4 +1,4 @@
-# Portifolio minnimalist
+# Portifolio minimalist
 
 ## this project uses only bootstrap and html css and javascript
 
